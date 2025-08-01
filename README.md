@@ -26,11 +26,10 @@ project-submission-flow/
 ├── README.md
 ├── Flow/
 │   ├── ProjectSubmissionFlow.zip
-│   └── flow-diagram.png
 ├── docs/
 │   └── screenshots/
-│       ├── submission-form.png
-│       └── flow-overview.png
+│       ├── FlowOverview1.png
+│       └── FlowOverview2.png
 ```
 
 ---
