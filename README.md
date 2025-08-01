@@ -48,9 +48,9 @@ project-submission-flow/
 
 ## 📸 Screenshots
 
-| Microsoft Form | Flow Overview |
+| Flow Overview 1 | Flow Overview 2 |
 |----------------|---------------|
-| ![](docs/screenshots/submission-form.png) | ![](docs/screenshots/FlowOverview1.png) |
+| ![](docs/screenshots/FlowOverview1.png) | ![](docs/screenshots/FlowOverview2.png) |
 
 ---
 
