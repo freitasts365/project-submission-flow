@@ -50,7 +50,7 @@ project-submission-flow/
 
 | Microsoft Form | Flow Overview |
 |----------------|---------------|
-| ![](docs/screenshots/submission-form.png) | ![](docs/screenshots/flow-overview.png) |
+| ![](docs/screenshots/submission-form.png) | ![](docs/screenshots/FlowOverview1.png) |
 
 ---
 
